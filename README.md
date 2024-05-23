@@ -19,4 +19,4 @@ git clone https://github.com/Incongnito45/Report_Whatsapp-bomba-verde
 
 cd Report_Whatsapp
 
-python Report_Whatsapp.py
+python Report_Whatsapp-bomba-verde.py
