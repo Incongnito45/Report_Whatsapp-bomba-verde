@@ -1,5 +1,5 @@
-# @AnonNews_irc
-# Telegram : https://t.me/addlist/iZfJw-LVfYthNzYx
+# @maestrosilencio452✓
+# WhatsApp: https://chat.whatsapp.com/CKVOd9EmqFkLbrWISYX9VH
 # X : https://x.com/AnonNews_irc
 
 import zlib,base64
