@@ -1,6 +1,6 @@
-Report Whatsapp
+🪀Report Whatsapp bomba verde✓🪀
 
-instalar en Termux
+instalar en Termux y Linux compatible con kali y parrot✓
 
 La herramienta es capaz de generar reportes que son enviados a números de teléfono de WhatsApp utilizando la API de WhatsApp.
 
@@ -20,3 +20,6 @@ git clone https://github.com/Incongnito45/Report_Whatsapp-bomba-verde
 cd Report_Whatsapp
 
 python Report_Whatsapp-bomba-verde.py
+
+
+creador:alex_garcia✓®
